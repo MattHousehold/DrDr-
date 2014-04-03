@@ -8,6 +8,7 @@
 
     function index()
     {
+      echo "Test";
       $this->load->helper('form');
       $data['title'] = "Administrate Away";
       $data['quote'] = $this->quote_model->getquote();

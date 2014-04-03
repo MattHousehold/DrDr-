@@ -15,8 +15,6 @@
 
       <?php echo form_open('find/index') ?>
 
-        <label>Quote</label><br>
-        <textarea name="content"></textarea><br>
         <label>Age</label><br>
           <select name="age">
           <option value="">Select</option>
@@ -43,7 +41,17 @@
           <option value="3">Academics</option>
           <option value="4">Love</option>
         </select><br>
+        <select name="reason"> 
        <input type="submit" name="submit" value="Create">
     </form>
+
+        <?php foreach($quote as $q): ?>
+
+    <div class="main">
+          <p><?php echo $q['content']; ?>Hello</p>
+    </div>
+
+    <?php endforeach; ?>
+<p>Hey</p>
   </body>
-</html>
+</html>s
