@@ -1,0 +1,170 @@
+body 
+		{ 
+			background-image:url("https://scontent-b-ord.xx.fbcdn.net/hphotos-frc3/t1.0-9/10001312_10152131460803311_9212375441745979948_n.jpg");
+			float:center;
+	 	}
+ 	
+ 	ul
+		{
+			list-style-type: none;
+			padding: 0px;
+			margin: 0px;
+		}
+	
+	h1
+		{
+			font-style:bold;
+			text-align:center;
+			color:#424343;
+			font-size: 46px;
+			letter-spacing:2px;
+			font-family: 'Merriweather', serif;
+			padding-bottom:100px;
+		}
+	
+	h2
+		{
+			color:#0099CC;
+			font-family: 'Averia Libre', cursive;
+		}
+	
+	h3 
+	    {
+		color:#383838;
+	    }
+
+	p
+		{
+			font-family: 'Crimson Text', serif;
+		}
+    
+    label 
+        {
+          font-family: 'Merriweather', serif;
+            font-size: 18px;
+            font-weight: bold;
+            color: #383838;
+            margin-left:400px;
+        }
+   
+    .label 
+        {
+          font-family: 'Merriweather', serif;
+            font-size: 25px;
+            font-weight: bold;
+            color: #383838;
+            margin-bottom:2px;
+            margin-left:500px;
+        }
+
+    #landcat1
+        {
+            margin-left:500px;
+        }
+
+    .label1 
+        {
+          font-family: 'Merriweather', serif;
+            font-size: 25px;
+            font-weight: bold;
+            color: #383838;
+            margin-top:-99px;
+            margin-bottom:2px;
+            margin-left:900px;
+            
+        }
+
+    #landcat2
+        {
+            margin-left:900px;
+        }
+
+
+    .label2 
+        {
+          font-family: 'Merriweather', serif;
+            font-size: 25px;
+            font-weight: bold;
+            color: #383838;
+            margin-top:-99px;
+            margin-bottom:2px;
+            margin-left:1300px;
+        }
+
+    #landcat3
+        {
+            margin-left:1300px;
+        }
+
+    #category1
+        {
+        	margin-left:400px;
+        }
+
+    #category2
+        {
+            margin-top:-230px;
+            margin-left:700px;
+        }
+    
+    #submit, #submit1
+        {
+            text-align: center;
+            margin-top:50px;
+        }
+     
+	#sitetitle
+	 	{
+ 			text-align: left;
+ 			width:800px;
+			margin-left: auto;
+			margin-right:auto;
+			margin-top: 20px;
+			margin-bottom: 20px;
+			color: white;
+			border-bottom: solid #3E657F;
+	 	}
+
+ 	.main
+		{
+			width:800px;
+			margin-left: auto;
+			margin-right:auto;
+			margin-top: 20px;
+			padding:15px;
+			border-bottom: solid #555555;
+			border-right: solid #555555;
+			background-color: #EBF1F1;
+		}
+
+	#admincontent
+		{
+			height:300px;
+			width:80%;
+		}
+
+	#adminmain
+		{
+			text-align: center;
+		}
+
+	.create1
+		{
+			margin:10px;
+			margin-right: 100%;
+			float:left;
+		}
+
+	.create2
+		{
+			margin:20px;
+			float:left;
+		}
+
+	.create3
+		{
+			margin:20px;
+		}
+	
+	
+	
