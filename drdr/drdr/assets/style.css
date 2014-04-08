@@ -1,0 +1,282 @@
+    body 
+        { 
+            background-image:url("https://scontent-b-ord.xx.fbcdn.net/hphotos-frc3/t1.0-9/10001312_10152131460803311_9212375441745979948_n.jpg");
+            float:center;
+        }
+    
+    ul
+        {
+            list-style-type: none;
+            padding: 0px;
+            margin: 0px;
+        }
+    
+    h1
+        {
+            text-align:center;
+            color:#424343;
+            font-size: 46px;
+            letter-spacing:2px;
+            font-family: 'Merriweather', serif;
+            padding-top:7%;
+
+        }
+    
+    h2
+        {
+            color:#0099CC;
+            font-family: 'Averia Libre', cursive;
+            text-align:center;
+            padding-bottom:4%;
+        }
+    
+    h3 
+        {
+        color:#383838;
+        }
+
+    p
+        {
+            font-family: 'Crimson Text', serif;
+        }
+   
+    label
+        {
+            font-family: 'Merriweather', serif;
+            font-size: 18px;
+            font-weight: bold;
+            color: #383838;
+            margin-left:33.7%;
+        }
+
+     a:link {color:#0066CC; text-decoration:none;}
+     a:visited {color:#3366FF; text-decoration:none;}
+     a:hover {color:#000000;text-decoration:none;}
+     a:active {color:#0066CC;text-decoration:none;} 
+
+    .label
+        {
+          font-family: 'Merriweather', serif;
+            font-size: 25px;
+            font-weight: bold;
+            color: #383838;
+            margin-bottom:2px;
+            margin-left:12%;
+            }
+   
+    img.age
+        {
+            height: 100px;
+            float: left;   
+        }   
+
+    img.feeling
+        {
+            height: 100px;
+            top: -78px;
+            right:2%;
+        }
+
+    img.reason
+        {
+    
+            height:95px;
+            right:25%;
+            top:10px;
+        }
+
+    #category1
+        {
+            margin-left:22.5%;
+        }
+  
+    #submit
+        {
+            text-align: center;
+            margin-top:-3%;
+        }
+    
+    #submit2
+        {
+            text-align: center;
+            margin-top: 5%;
+            margin-left: inherit;
+        }    
+
+    .main
+        {
+            width:800px;
+            margin-left: auto;
+            margin-right:auto;
+            margin-top: 20px;
+            padding:15px;
+            border-bottom: solid #FF6600;
+            border-right: solid #FF6600;
+            border-radius: 13px;
+            background-color: #FFCC66;
+            position:inherit;
+        }
+
+    #admincontent
+        {
+            height:300px;
+            width:80%;
+        }
+
+    #adminmain
+        {
+            text-align: center;
+        }
+
+    .create1
+        {
+            margin: auto;
+            margin-right: auto;
+            float: center;
+        }
+
+    .create2
+        {
+            margin:20px;
+            float:left;
+        }
+
+    .create3
+        {
+            margin:20px;
+        }
+
+    #vote
+    {
+            font-weight:bolder;
+            font-size: 17px;
+            letter-spacing:0.5px;
+            font-family: 'Merriweather', serif;
+            margin-right:29%;
+            position:inherit;
+            float:right;
+    }
+
+    .headimage
+    {
+        display:block;
+        width:100%;
+        position:fixed;
+        top:0px;
+        z-index:88888;
+        height:5%;
+
+    }
+
+    #navlist li
+    {
+        display: inline;
+        list-style-type: none;
+        padding-right: 19%;
+        font-family: 'Merriweather', serif;
+        text-align:center;
+        margin-left: 5%;
+        font-size:20px;
+        font-weight:bold;
+    }
+
+    #navlist
+    {
+        padding-left: 15%;
+        padding-top:2%;
+        width: 85%;
+        margin: 0 auto;
+        margin-left: 5%;
+    }
+
+    #selectionlist li
+    {
+        display: inline;
+        list-style-type: none;
+        padding-right: 19%;
+        font-family: 'Merriweather', serif;
+        font-weight:bold;
+        text-align:center;
+        margin-left:4%;
+        font-size:20px;
+    }
+
+    #selectionlist
+    {
+        padding-left: 16%;
+        padding-top:2%;
+        margin-left:3%;
+    }
+
+    #imageslist li
+    {
+        display: inline;
+        list-style-type: none;
+        padding-right: 16%;
+        font-family: 'Merriweather', serif;
+        font-weight:bold;
+        text-align:center;
+        margin-left:4%;
+        font-size:20px;
+    }
+
+    #imageslist
+    {
+        padding-left: 21.9%;
+        padding-top:2%;
+        margin-left:2%;
+        width: 85.5%;
+        margin: 0 auto;
+        margin-left: 1%;
+    }
+
+    #textarea
+    {
+        margin-left:21.9%;
+        padding-top:4%;
+    }
+
+    #adminname li
+    {
+        display: inline;
+        list-style-type: none;
+        padding-right: 0%;
+        font-family: 'Merriweather', serif;
+        font-weight:bold;
+        text-align:center;
+        margin-left:15.4%;
+        font-size:18px;
+    }
+
+    #adminlist
+    {
+        padding-left: 13%;
+        margin-right:-19%;
+    }
+
+    #adminselect li
+    {
+        display: inline;
+        list-style-type: none;
+        padding-right: 0%;
+        font-family: 'Merriweather', serif;
+        text-align:center;
+        margin-left:17%;
+        font-size:18px;
+    }
+
+    #adminoption
+    {
+        margin-left: 16%;
+        padding-top:1%;
+    }
+
+    img.link
+        {
+            height: 50px;
+            float: right;  
+            margin-right:2%;
+            margin-top: 3%; 
+            float: bottom;
+        }
+
